@@ -1,4 +1,4 @@
-## Modul_4-Pertemuan_ke-9
+## Modul_Praktikum_4-Pertemuan_ke-9
 Repository ini dibuat sebagai latihan atau penjelasan dari tugas atau materi yang diberikan oleh Dosen Bahasa Pemrograman.
 <br>
 
