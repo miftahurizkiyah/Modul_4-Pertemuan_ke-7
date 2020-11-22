@@ -36,7 +36,7 @@ baris=daftar[3:4];
 print(baris[:2]);
 
 print("tambah list B dengan nilai string")
-print(baris.insert(3,"Febro"));
+print(baris.insert(3,"Ita"));
 
 print("================================");
 
